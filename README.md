@@ -1,2 +1,1 @@
-mkdir -p ~/Devrep
-cd $_ 
+# Devrep
